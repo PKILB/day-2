@@ -1,0 +1,63 @@
+/* SECTION element selectors */
+
+header {
+    background-color: #8A2BE2;
+    padding: 1em;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    margin-right: 2vw;
+}
+
+main {
+    margin-top: 3vh;
+}
+
+footer {
+    background-color: #892be26c;
+    text-align: center;
+    padding: 1em;
+    margin-top: 2em;
+}
+/* SECTION class selectors */
+
+.nav-header {
+    display: flex;
+    justify-content: center;
+    /* margin: 50vw; */
+    font-size: 1.6em;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.margin-top {
+    margin-top: 1em;
+}
+
+.brand-img {
+    height: 70vh;
+    border-radius: 1.5%;
+    border-color: #8A2BE2;
+}
+
+.card {
+    border: .25em solid #8A2BE2;
+    padding: 1em;
+    border-radius: 1%;
+    box-shadow: 2pt 2pt #02000356;
+}
